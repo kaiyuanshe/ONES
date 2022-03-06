@@ -74,6 +74,7 @@ OSAC 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 - 乐于分享，乐于协作。
 
 欢迎在 issue 中进行申请：https://github.com/kaiyuanshe/OSAC/issues/7
+- 填写信息格式：[姓名] [开源社成员状态] [单位] [从事工作]
 
 ### 时间点安排：
 
