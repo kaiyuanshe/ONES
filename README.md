@@ -58,6 +58,9 @@ ONES Group 将建立并托管在开源社的网站和 GitHub 仓库上，用开�
 - https://gitlab.ow2.org/ggi/ggi-castalia
 
 我们主要用 GitHub 平台来开展日常的组织与活动，并开启仓库的论坛功能进行讨论，欢迎大家参加。
+- GitHub仓库：https://github.com/kaiyuanshe/ONES/
+- Gitee 或 GitLab 仓库：待定
+- 社区论坛：https://github.com/kaiyuanshe/ONES/discussions
 
 初始发起人：
 - 王伟，庄表伟，陈阳 Emily，刘天栋 Ted，赵生宇 Frank，林旅强 Richard
