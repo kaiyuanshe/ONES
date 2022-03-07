@@ -30,11 +30,12 @@ OSAC 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 
 著名的“马斯洛的需求层次理论”是 Abraham Maslow 在他于1954年的书籍著作《动机与人格》（Motivation and Personality）当中第一次完整阐述的。这种流行的架构很容易通过跨学科的方式（如社会学、心理学、管理学）引起人们的共识，凡是涉及到人和组织的地方亦是如此，开源治理与社区运营也不例外。
 
-马斯洛的需求层次（图）
+![马斯洛需求层次](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/OSAC/image.png)
+
 
 基于全球的几个主流开源治理与社区运营框架，我们也同样希望在这样一个共同普世的框架下参与、贡献、协作与创新。
 
-开源治理框架（图）
+![开源治理框架](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/OSAC/image-2.png)
 
 为此，作为 OSAC 起步阶段，我们会定期开展如下形式的活动：
 - 双周讨论会：例如每周五晚上，两周一次的共同讨论，围绕开源治理、社区运营、开源元数据等框架；
