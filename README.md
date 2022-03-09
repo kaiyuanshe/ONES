@@ -63,6 +63,11 @@ OSAC 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 - Gitee 或 GitLab 仓库：待定
 - 社区论坛：https://github.com/kaiyuanshe/OSAC/discussions
 
+年度目标与成果：
+- 开源治理系列规范手册：https://github.com/kaiyuanshe/OSAC/issues/11
+- OSPOChina Landscape：https://github.com/kaiyuanshe/OSAC/issues/15
+- OSPOCon China 2022：https://github.com/kaiyuanshe/OSAC/issues/16
+
 初始发起人：
 - 王伟，庄表伟，陈阳 Emily，刘天栋 Ted，赵生宇 Frank，林旅强 Richard
 
