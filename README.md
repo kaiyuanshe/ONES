@@ -34,7 +34,6 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/demand_hierarchy.png">
-    <br>
     <p style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
@@ -46,7 +45,6 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/gov_frame.png">
-    <br>
     <p style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
@@ -58,7 +56,6 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/community_management.png">
-    <br>
     <p style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
