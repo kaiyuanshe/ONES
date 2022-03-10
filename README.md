@@ -30,19 +30,37 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 
 著名的“马斯洛的需求层次理论”是 Abraham Maslow 在他于1954年的书籍著作《动机与人格》（Motivation and Personality）当中第一次完整阐述的。这种流行的架构很容易通过跨学科的方式（如社会学、心理学、管理学）引起人们的共识，凡是涉及到人和组织的地方亦是如此，开源治理与社区运营也不例外。
 
-![马斯洛需求层次](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/image.png)
-马斯洛需求层次模型
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/demand_hierarchy.png">
+    <p style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;" align="center">马斯洛需求层次模型</p>
+</center><br>
 
 基于全球的几个主流开源治理与社区运营框架，我们也同样希望在这样一个共同普世的框架下参与、贡献、协作与创新。
-
-![开源治理框架](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/image-2.png)
-开源治理框架
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/gov_frame.png">
+    <p style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;" align="center">开源治理框架</p>
+</center><br>
 
 在开源治理的框架下面，我们同时也思考关于开源社区运营（管理）的各项事务，以期望来共同建设一个健康可持续发展的开源社区与生态。
-
---插入图片--
-开源社区运营框架
-
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/community_management.png">
+    <p style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;" align="center">开源社区运营框架</p>
+</center><br>
 
 为此，作为 ONES 起步阶段，我们会定期开展如下形式的活动：
 - 双周讨论会：例如每周五晚上，两周一次的共同讨论，围绕开源治理、社区运营、开源元数据等框架；
