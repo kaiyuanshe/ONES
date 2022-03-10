@@ -30,12 +30,12 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 
 著名的“马斯洛的需求层次理论”是 Abraham Maslow 在他于1954年的书籍著作《动机与人格》（Motivation and Personality）当中第一次完整阐述的。这种流行的架构很容易通过跨学科的方式（如社会学、心理学、管理学）引起人们的共识，凡是涉及到人和组织的地方亦是如此，开源治理与社区运营也不例外。
 
-![马斯洛需求层次](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/OSAC/image.png)
+![马斯洛需求层次](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/image.png)
 
 
 基于全球的几个主流开源治理与社区运营框架，我们也同样希望在这样一个共同普世的框架下参与、贡献、协作与创新。
 
-![开源治理框架](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/OSAC/image-2.png)
+![开源治理框架](https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/image-2.png)
 
 为此，作为 ONES 起步阶段，我们会定期开展如下形式的活动：
 - 双周讨论会：例如每周五晚上，两周一次的共同讨论，围绕开源治理、社区运营、开源元数据等框架；
@@ -59,14 +59,14 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 - https://gitlab.ow2.org/ggi/ggi-castalia
 
 我们主要用 GitHub 平台来开展日常的组织与活动，并开启仓库的论坛功能进行讨论，欢迎大家参加。
-- GitHub仓库：https://github.com/kaiyuanshe/OSAC/
+- GitHub仓库：https://github.com/kaiyuanshe/ONES/
 - Gitee 或 GitLab 仓库：待定
-- 社区论坛：https://github.com/kaiyuanshe/OSAC/discussions
+- 社区论坛：https://github.com/kaiyuanshe/ONES/discussions
 
 年度目标与成果：
-- 开源治理系列规范手册：https://github.com/kaiyuanshe/OSAC/issues/11
-- OSPOChina Landscape：https://github.com/kaiyuanshe/OSAC/issues/15
-- OSPOCon China 2022：https://github.com/kaiyuanshe/OSAC/issues/16
+- 开源治理系列规范手册：https://github.com/kaiyuanshe/ONES/issues/11
+- OSPOChina Landscape：https://github.com/kaiyuanshe/ONES/issues/15
+- OSPOCon China 2022：https://github.com/kaiyuanshe/ONES/issues/16
 
 初始发起人：
 - 王伟，庄表伟，陈阳 Emily，刘天栋 Ted，赵生宇 Frank，林旅强 Richard
@@ -74,12 +74,12 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 志愿者：
 - 夏小雅，李明康，顾业鸣
 
-同时，我们开始征集首批加入到 OSAC 的成员，如果你满足如下三个条件：
+同时，我们开始征集首批加入到 ONES Group 的成员，如果你满足如下三个条件：
 - 开源社正式成员或开源顾问委员会成员；
 - 在开源治理与运营方面有一定的研究或实践经历；
 - 乐于分享，乐于协作。
 
-欢迎在 issue 中进行申请：https://github.com/kaiyuanshe/OSAC/issues/7
+欢迎在 issue 中进行申请：https://github.com/kaiyuanshe/ONES/issues/7
 - 填写信息格式：[姓名] [开源社成员状态] [单位] [从事工作]
 
 ### 时间点安排：
@@ -88,7 +88,7 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
 
 - 3月11日（周五）：官宣发文
 
-- 3月13日（周日），晚上 9:00~9:30，第一次正式会议，发起成员 + 首批成员，议题：OSAC 的成立愿景、目标、工作机制、年度计划（[链接](https://github.com/kaiyuanshe/OSAC/issues/4)）
+- 3月13日（周日），晚上 9:00~9:30，第一次正式会议，发起成员 + 首批成员，议题：ONES Group 的成立愿景、目标、工作机制、年度计划（[链接](https://github.com/kaiyuanshe/ONES/issues/4)）
 
 - 3月27日（周日）：晚上 9:00~9:30，第二次正式会议
 
