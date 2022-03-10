@@ -35,10 +35,10 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/demand_hierarchy.png">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    <p style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">马斯洛需求层次模型</div>
+    padding: 2px;" align="center">马斯洛需求层次模型</p>
 </center><br>
 
 基于全球的几个主流开源治理与社区运营框架，我们也同样希望在这样一个共同普世的框架下参与、贡献、协作与创新。
@@ -47,10 +47,10 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/gov_frame.png">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    <p style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">开源治理框架</div>
+    padding: 2px;" align="center">开源治理框架</p>
 </center><br>
 
 在开源治理的框架下面，我们同时也思考关于开源社区运营（管理）的各项事务，以期望来共同建设一个健康可持续发展的开源社区与生态。
@@ -59,10 +59,10 @@ ONES 将建立并托管在开源社的网站和 GitHub 仓库上，用开源协�
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://xlab-open-source.oss-cn-beijing.aliyuncs.com/ONES/community_management.png">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    <p style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">开源社区运营框架</div>
+    padding: 2px;" align="center">开源社区运营框架</p>
 </center><br>
 
 为此，作为 ONES 起步阶段，我们会定期开展如下形式的活动：
