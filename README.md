@@ -115,7 +115,7 @@ ONES 将建立并托管在开源社的网站和 GitHub/Gitee 等仓库上，用�
 
 - 3月13日（周日），晚上 9:00~9:30，第一次正式会议，发起成员 + 首批成员，议题：ONES Group 的成立愿景、目标、工作机制、年度计划（[链接](https://github.com/kaiyuanshe/ONES/issues/4)）
 
-- 3月27日（周日）：晚上 9:00~9:30，第二次正式会议
+- 3月27日（周日）：晚上 9:00~9:30，第二次正式会议（[链接](https://github.com/kaiyuanshe/ONES/issues/44)）
 
 ### 开源人寄语：
 
